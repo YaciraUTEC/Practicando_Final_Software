@@ -15,7 +15,9 @@ En un repositorio Github, desarrollar el código fuente (se recomienda usar Pyth
 /mensajeria/enviar?mialias=XXXX&aliasdestino=YYYY&texto=ZZZZ
 /mensajeria/recibidos?mialias=XXXX
 ```
-
+***Comprobamos que el code si funciona***
+- Get: Contactos
+/assets/get_contactos.png
 ### Pregunta 2 (4 puntos)
 
 Realizar 4 pruebas unitarias para un caso de éxito y tres de error. Incluir las pruebas unitarias en el mismo repositorio Github.
