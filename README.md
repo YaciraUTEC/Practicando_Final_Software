@@ -17,7 +17,9 @@ En un repositorio Github, desarrollar el código fuente (se recomienda usar Pyth
 ```
 ***Comprobamos que el code si funciona***
 - Get: Contactos
-/assets/get_contactos.png
+<p align="center">
+  <img src="get_contactos.png" alt="Contactos">
+</p>
 ### Pregunta 2 (4 puntos)
 
 Realizar 4 pruebas unitarias para un caso de éxito y tres de error. Incluir las pruebas unitarias en el mismo repositorio Github.
