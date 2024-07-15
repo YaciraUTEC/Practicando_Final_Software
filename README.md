@@ -10,9 +10,11 @@ Se debe soportar las operaciones:
 ### Pregunta 1
 En un repositorio Github, desarrollar el código fuente (se recomienda usar Python, pero no es obligatorio) que implemente los endpoints:
 
+```
 /mensajeria/contactos?mialias=XXXX
 /mensajeria/enviar?mialias=XXXX&aliasdestino=YYYY&texto=ZZZZ
 /mensajeria/recibidos?mialias=XXXX
+```
 
 ### Pregunta 2 (4 puntos)
 
