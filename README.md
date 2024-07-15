@@ -28,7 +28,7 @@ En un repositorio Github, desarrollar el código fuente (se recomienda usar Pyth
 
 -Get: Recibidos
 <p align="center">
-  <img src="recibidos.png" alt="Recibidos">
+  <img src="recibido.png" alt="Recibidos">
 </p>
 ### Pregunta 2 (4 puntos)
 
